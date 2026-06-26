@@ -48,4 +48,4 @@ Database used: MySQL
 <img width="403" height="309" alt="Top-scores-window" src="https://github.com/user-attachments/assets/d9adc04d-32a7-4565-87ab-4eabf40e93a2" />
 
 ## Video Link
-Youtube : 
+Youtube : https://youtu.be/eOEzcMtiLLo
